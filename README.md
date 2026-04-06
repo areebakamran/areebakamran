@@ -1,16 +1,12 @@
-## Hi there 👋
+# INTRO
+Hi there, I'm a computer science student with a focus on python and web development.
+I work on building practical projects and developing a solid understanding of how software is structured beyond small, isolated programs. my focus is on writing clear, maintainable code and improving problem-solving through consistent hands-on work. I also write research articles on how technology shapes society
+Currently exploring larger codebases to understand real-world development workflows and contribute to open source.
 
-<!--
-**areebakamran/areebakamran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## SKILLS
+- python (Intermediate)
+- html (Advanced)
+- css (Advanced)
+- javascript (Intermediate)
+- git & github
